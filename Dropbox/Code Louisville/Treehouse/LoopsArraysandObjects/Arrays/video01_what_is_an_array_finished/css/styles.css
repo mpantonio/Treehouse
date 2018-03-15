@@ -1,5 +1,9 @@
 @import url('http://necolas.github.io/normalize.css/3.0.2/normalize.css');
 
+
+/<!--This is a comment. Comments are not displayed in the browser-->
+
+
 /*General*/
 body {
   background: #fff;
